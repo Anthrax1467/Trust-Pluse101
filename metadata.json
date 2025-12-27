@@ -1,0 +1,7 @@
+{
+  "name": "TrustPulse - Price Comparison & Business Hub",
+  "description": "A streamlined product and service comparison platform featuring search grounding and a business directory with sharing capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
